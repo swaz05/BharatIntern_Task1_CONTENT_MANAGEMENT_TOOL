@@ -1,0 +1,94 @@
+body {
+      font-family: Arial, sans-serif;
+      background-image: url("Pink\ Illustrated\ Woman\ Working\ Desktop\ Wallpaper\ \(1\).jpg");
+      
+  }
+  
+  h1 {
+      text-align: center;
+      font-family: 'Times New Roman', Times, serif;
+      color: rgb(253, 253, 253);
+  }
+  
+  .input-section {
+      margin-bottom: 20px;
+      width: 37cm;
+  }
+  
+  
+  .label-section {
+      text-decoration: wavy;
+      font-size: 0.5cm;
+      color: rgba(243, 238, 238, 0.582);
+  }
+  
+  .div-section {
+      height: 1cm;
+      border-radius: 8px;
+      margin: 0.5cm;
+  }
+  
+  .preview {
+      width: 15cm;
+      height: 15cm;
+  }
+  
+  .video-preview {
+      width: 15cm;
+      height: auto;
+  }
+  
+  .input-section label {
+      display: block;
+      margin-bottom: 5px;
+  }
+  
+  .input-section input[type="text"],
+  .input-section input[type="file"] {
+      width: 100%;
+      padding: 5px;
+  }
+  
+  .button-section {
+      text-align: center;
+      margin-top: 20px;
+      margin-bottom: 20px;
+  }
+  
+  .button-section button {
+      padding: 10px 20px;
+      font-size: 16px;
+  }
+  
+  .data-container {
+      max-height: 300px;
+      /* Adjust the height as needed */
+  }
+  
+  .card {
+      border: 1px solid rgb(39, 43, 51);
+      border-radius: 8px;
+      box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      margin-bottom: 20px;
+      /* background-image: url("bg.jpeg"); */
+      background:rgba(196, 195, 195, 0.5);
+      background-size: cover;
+      background-position: center;
+      overflow-y: scroll;
+  
+  }
+  
+  .card-header {
+      background-color: #f0f0f0;
+      padding: 10px;
+      border-radius: 6px;
+  }
+  
+  .card-title {
+      margin: 0;
+  }
+  
+  .card-body {
+      margin-top: 10px;
+  }
